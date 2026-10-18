@@ -1,5 +1,7 @@
 # Garage
 
+**Live:** https://fitzyracing1.github.io/garage/ · **Repo:** https://github.com/fitzyracing1/garage
+
 A public index of every public repository of the GitHub account **[fitzyracing1](https://github.com/fitzyracing1)**. Static site, no build, deployable to GitHub Pages.
 
 ![Garage screenshot](docs/screenshot.png)
