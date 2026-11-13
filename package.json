@@ -9,5 +9,9 @@
     "start": "python3 -m http.server 8080",
     "snapshot": "node scripts/snapshot.mjs fitzyracing1"
   },
-  "engines": { "node": ">=18" }
+  "engines": { "node": ">=18" },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/fitzyracing1"
+  }
 }
